@@ -1,4 +1,3 @@
 # CommonComponent
 New Update!
-news
 
